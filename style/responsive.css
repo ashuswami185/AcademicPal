@@ -1,0 +1,10 @@
+@media screen and ( max-width:1000px){
+    .navbar{
+        flex-direction: column;
+    }
+    .nav-list{
+        flex-direction: column;
+        
+    }
+
+}
